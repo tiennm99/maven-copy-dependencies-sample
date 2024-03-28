@@ -1,0 +1,1 @@
+# maven-copy-dependencies-sample
